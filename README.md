@@ -32,7 +32,7 @@
 1. **Clone this repo**
 
    ```bash
-   git clone https://github.com/eswarsaikiran15/SHOPSMART.git
+   git clone  https://github.com/BANTUPALLISRIKAVYA /SHOPSMART.git
    cd SHOPSMART
    ```
 
@@ -64,8 +64,8 @@ Big thanks to all open-source libraries and tools that supported this build.
 
 ### 📬 Contact
 
-Built by **Eswar Sai Kiran Kamparapu**
-📧 Email: \[kamparapusaikiran@gmail.com]
-🌐 Portfolio: \[[your portfolio link](https://my-portfolio-eswar-sai-kiran-kamparapus-projects.vercel.app/)] 
+Built by **Bantupalli Sri Kavya**
+📧 Email: \[bantupalli.srikavya2004@gmail.com]
+🌐 Portfolio: \[[your portfolio link](https://my-portfolio-bantupalli-sri-kavya-projects.vercel.app/)] 
 
 ---
